@@ -1,4 +1,4 @@
-# Simple-Input
+# Simple-Input XR
 vr input thing like easy inputs
 
 
